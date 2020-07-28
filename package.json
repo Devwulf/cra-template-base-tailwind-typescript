@@ -1,0 +1,31 @@
+{
+  "name": "cra-template-base-tailwind-typescript",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "tailwind",
+    "postcss",
+    "autoprefixer"
+  ],
+  "main": "template.json",
+  "description": "The base template for Create React App using TypeScript with Tailwind CSS, PostCSS, and Autoprefixer",
+  "author": "Mark Malabanan",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Devwulf/cra-template-base-tailwind-typescript.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/Devwulf/cra-template-base-tailwind-typescript/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
