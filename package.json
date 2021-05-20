@@ -1,6 +1,6 @@
 {
-  "name": "cra-template-base-tailwind-typescript",
-  "version": "1.2.0",
+  "name": "cra-template-tailwind-enzyme-ts",
+  "version": "1.1.0",
   "keywords": [
     "react",
     "create-react-app",
@@ -11,7 +11,7 @@
     "autoprefixer"
   ],
   "main": "template.json",
-  "description": "The base template for Create React App using TypeScript with Tailwind CSS, PostCSS, and Autoprefixer",
+  "description": "The base template for Create React App using TypeScript with Tailwind CSS, PostCSS, and Autoprefixer. Now with Enzyme testing.",
   "author": "Mark Malabanan",
   "repository": {
     "type": "git",

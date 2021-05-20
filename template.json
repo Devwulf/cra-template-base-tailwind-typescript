@@ -1,9 +1,9 @@
 {
 	"dependencies": {
-	    "@types/jest": "ts4.2",
-	    "@types/node": "ts4.2",
-	    "@types/react": "ts4.2",
-	    "@types/react-dom": "ts4.2",
+	    "@types/jest": "^26.0.23",
+	    "@types/node": "^15.3.1",
+	    "@types/react": "^17.0.6",
+	    "@types/react-dom": "^17.0.5",
     	"typescript": "^4.2.4",
         "react": "^17.0.2",
         "react-dom": "^17.0.2"

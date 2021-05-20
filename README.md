@@ -1,4 +1,4 @@
-# cra-template-base-tailwind-typescript
+# cra-template-tailwind-enzyme-ts
 
 My own custom [Create React App](https://github.com/facebook/create-react-app) template for React 17 with TypeScript 4.2 which uses:
 - [Tailwind CSS](https://www.npmjs.com/package/tailwindcss)
@@ -11,7 +11,7 @@ My own custom [Create React App](https://github.com/facebook/create-react-app) t
 
 To use and setup, run these commands:
 
-    npx create-react-app my-cool-app --template base-tailwind-typescript
+    npx create-react-app my-cool-app --template tailwind-enzyme-ts
     
     cd my-cool-app
 
