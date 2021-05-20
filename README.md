@@ -26,4 +26,6 @@ To setup eslint, run this command:
 
     npm run eslint
 
-Don't forget to run `npm start` before coding so the Tailwind CSS files are setup!
+Notes:
+- Don't forget to run `npm start` before coding so the Tailwind CSS files are setup!
+- Also don't forget to add `/src/assets/main.css` to .gitignore since it's usually a huge generated asset.
