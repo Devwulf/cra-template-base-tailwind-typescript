@@ -11,7 +11,7 @@
         "build": "npm run build:css && react-scripts build",
         "build:css": "postcss src/assets/tailwind.css -o src/assets/main.css", 
         "watch:css": "postcss src/assets/tailwind.css -o src/assets/main.css",
-        "setup": "npm install tailwindcss@1.9.3 postcss-cli@8.1.0 autoprefixer@9.0.0 -D",
+        "setup": "npm install tailwindcss@1.9.3 postcss-cli@8.1.0 autoprefixer@9.0.0 eslint@7.32.0 -D",
         "eslint": ".\\node_modules\\.bin\\eslint --init"
     }
 }
